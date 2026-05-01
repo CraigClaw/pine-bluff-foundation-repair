@@ -1,0 +1,16 @@
+{
+  "name": "Pine Bluff Foundation Help",
+  "short_name": "Pine Bluff",
+  "description": "Foundation Repair in Pine Bluff, Arkansas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#25483f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
